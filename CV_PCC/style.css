@@ -1,4 +1,6 @@
-
+body{
+    padding-left: 20px;
+}
 
 header{
     position:relative;
@@ -11,6 +13,10 @@ header{
     color:aliceblue;
     display: block;
     
+}
+
+.centrar{
+    text-align: center;
 }
 aside{
     position:relative;
@@ -30,8 +36,7 @@ main{
     margin-right:0%;
     margin-left: 30%;
     margin-bottom: 0%;
-    margin-top: -120%;
-    background-color:antiquewhite;
+    margin-top: -115%;
+    background-color:aqua;
     display: inline-block;
-    padding: 16px 20px 25px 18px;
 }
