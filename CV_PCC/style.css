@@ -18,29 +18,30 @@ header>h2{
 }*/
 header{
     position:relative;
-    text-align: left;
+    text-align:justify;
     margin-left: 2%;
     background-color: gray ;
     margin-right: 75%;
     margin-bottom: 0%;
+    margin-top: -0%;
     font-size:medium;
     color:aliceblue;
     
 }
 aside{
     position:relative;
-    text-align: left;
+    text-align:justify;
     margin-left: 2%;
     margin-right: 75%;
     margin-bottom: 0%;
-    margin-top: -0%;
+    margin-top: -10%;
     background-color: rgb(184, 219, 150);
     display: inline-block;
 
 
 }
 main{
-    text-align: center;
+    text-align:justify;
     margin-right:0%;
     margin-left: 25%;
     margin-bottom: 0%;
