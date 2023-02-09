@@ -1,9 +1,5 @@
-*{
-    margin: 0;
-}
-
-body{
-    padding: 5px 5px 5px 5px;
+ul{
+    list-style: none;
 }
 
 header{
@@ -11,12 +7,11 @@ header{
     text-align:left;
     margin-left: 2%;
     background-color:dimgrey ;
-    margin-right: 75%;
+    margin-right: 70%;
     margin-bottom: 0%;
     font-size:medium;
     color:aliceblue;
-    display: block;
-    
+    display: block;   
 }
 
 .centrar{
@@ -40,7 +35,7 @@ main{
     margin-right:0%;
     margin-left: 30%;
     margin-bottom: 0%;
-    margin-top: -112%;
-    background-color:beige;
+    margin-top: -100%;
+    background-color:aquamarine;
     display: inline-block;
 }
