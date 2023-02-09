@@ -9,6 +9,7 @@ header{
     margin-bottom: 0%;
     font-size:medium;
     color:aliceblue;
+    display: block;
     
 }
 aside{
@@ -31,4 +32,5 @@ main{
     margin-bottom: 0%;
     margin-top: -10%;
     background-color:antiquewhite;
+    display: inline-block;
 }
