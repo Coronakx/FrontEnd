@@ -19,9 +19,9 @@ header>h2{
 header{
     position:relative;
     text-align:justify;
-    line-height: 50%;
+    line-height: 2;
     margin-left: 2%;
-    background-color: gray ;
+    background-color:dimgrey ;
     margin-right: 75%;
     margin-bottom: 0%;
     margin-top: -0%;
@@ -36,7 +36,7 @@ aside{
     margin-right: 75%;
     margin-bottom: 0%;
     margin-top: -10%;
-    background-color: rgb(184, 219, 150);
+    background-color:dimgray;
     display: inline-block;
 
 
