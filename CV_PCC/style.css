@@ -1,6 +1,7 @@
 h1{
     padding-top: 1%; /**/
     padding-bottom: 1%;
+    border-color: aquamarine; /**/
 }
 header{
 
@@ -38,8 +39,8 @@ main{
     margin-right:0%;
     margin-left: 30%;
     margin-bottom: 0%;
-    margin-top: -115%;
-    background-color:bisque;
+    margin-top: -112%; /*115 se pasa*/
+    background-color:chartreuse;
     display: inline-block;
     padding-left: 2%; /*5%*/
     padding-right: 2%; /*5%*/
