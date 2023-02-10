@@ -5,16 +5,17 @@ h1{
     border-style: solid;
     border-width: 3%; /**/
 }
-.phead{
-    border-style: solid;
-    border-color: red;
+
+#phead{
+   border-color: red;
+   border-style: solid; 
 }
 header{
 
     position:relative;
     text-align:center;
     margin-left: 2%;
-    background: color #f9c6aa; 
+    background-color:#f9c6aa; 
     margin-right: 70%;
     margin-bottom: 0%;
     padding-left: 2%;
@@ -32,7 +33,7 @@ aside{
     position:relative;
     text-align:left;
     margin-left: 2%;
-    margin-right: 73%; /*70%*/
+    margin-right: 75%; /*70%*/
     margin-bottom: 0%;
     margin-top: -0%;
     background-color:black;
