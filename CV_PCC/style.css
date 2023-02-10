@@ -2,6 +2,7 @@ h1{
     padding-top: 1%; /**/
     padding-bottom: 1%;
     border-color: aquamarine; /**/
+    border-style: solid;
     border-width: 3%; /**/
 }
 header{
@@ -9,13 +10,13 @@ header{
     position:relative;
     text-align:center;
     margin-left: 2%;
-    background-color:black;
+    background: color #f9c6aa; 
     margin-right: 70%;
     margin-bottom: 0%;
     padding-left: 2%;
     padding-right: 2%;
     font-size:medium;
-    color:aliceblue;
+    color:#919693;
     display: block;   
 }
 
@@ -27,7 +28,7 @@ aside{
     position:relative;
     text-align:left;
     margin-left: 2%;
-    margin-right: 72%; /*70%*/
+    margin-right: 73%; /*70%*/
     margin-bottom: 0%;
     margin-top: -0%;
     background-color:black;
