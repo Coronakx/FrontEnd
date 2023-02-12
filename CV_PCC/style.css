@@ -29,20 +29,21 @@ h3{
     margin-top: 0%
 }
 
-header{
+/*header{
 
     position:relative;
     text-align:center;
     margin-left: 1%;
     background-color:#f9c6aa; 
     margin-right: 70%;
-    /*margin-bottom: 0%;*/
+    margin-bottom: 0%;
     padding-left: 2%;
     padding-right: 2%;
     font-size:medium;
     color:#919693;
     display: block;   
-}
+
+} */
 
 .centrar{
     text-align: center;
