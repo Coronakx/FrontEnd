@@ -17,6 +17,10 @@ h3{
     margin-bottom: 3px; /**/
 }
 
+ul{
+    list-style:square;
+}
+
 #grado{
     text-align: center;
     border-color:cadetblue;
