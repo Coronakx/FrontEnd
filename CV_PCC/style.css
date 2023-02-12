@@ -22,11 +22,13 @@ h3{
 }
 
 #grado{
+    text-align: center;
     border-color: red;
     border-style: solid;
     padding:10%
     margin-bottom: 50px;
     margin-top: 0%
+
 }
 
 /*header{
@@ -70,7 +72,7 @@ main{
     margin-bottom: 0%;
     margin-top: 0%; /*-129%*/
     background-color:whitesmoke;
-    display: inline-block;
+    /*display: inline-block;*/
     padding-left: 2%; 
     padding-right: 2%; 
     width: auto; /**/
