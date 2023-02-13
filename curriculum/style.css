@@ -14,9 +14,6 @@ header{
 
 } 
 
-.perfil{
-    text-align: justify;
-}
 
 #grado{
     text-align: center;
@@ -27,6 +24,10 @@ header{
 
 #perfil{
     text-align: justify;
+}
+
+.centrar{
+    text-align: center;
 }
 
 aside{
