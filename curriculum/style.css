@@ -14,10 +14,6 @@ header{
 
 } 
 
-.centrar{
-    text-align: center;
-
-}
 .perfil{
     text-align: justify;
 }
@@ -27,7 +23,10 @@ header{
     padding:10%;
     margin-bottom:  50px;
     margin-top: 0%;
+}
 
+#perfil{
+    text-align: justify;
 }
 
 aside{
