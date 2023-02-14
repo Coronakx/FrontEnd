@@ -1,76 +1,89 @@
-
-header{
-
-    position:relative;
-    text-align:center;
-    margin-left: 1%;
-    background-color:black; 
-    margin-right: 70%;
-    margin-bottom: 0%;
-    padding: 2%;
-    font-size:medium;
-    color:whitesmoke;
-    display: block;   
-
-} 
-
-#foto>img{
-    width: 60%;
-    margin-left:20%;
-    border-style: solid;
-    border-width: 1px;
-    border-color: beige;
-}
-#grado{
-    text-align: center;
-    padding:2%;
-    margin-bottom:  3px;
-    margin-top: 0%;
-}
-
-#perfil{
-    text-align: justify;
-}
-
-.centrar{
-    text-align: center;
-}
-
-aside{
-    /*position:relative; */
-    text-align:left;
-    margin-left: 1%;
-    margin-right: 70%;
-    margin-top: 0%; 
-    background-color:black;
-    color:aliceblue;
-    /*display: inline-block;*/
-    padding: 2%;
-   
-}
-main{
-    text-align:left;
-    margin-right:1%;
-    margin-left: 30%;
-    margin-bottom: 0%;
-    margin-top: -158%; 
-    background-color:whitesmoke;
-    padding: 2%; 
-    width: auto; 
-}
-section>h2{
-    margin-bottom: 3px;
-}
-footer{
-    margin-top: -10%;
-    background-color: black;
-    width: 30%;
-    height: 60%;
-}
-footer>img{
-    width: 20%;
-    margin-left: 10%;
-    background-color: white;
-    margin-bottom: 0%;
-    padding-bottom: 0%;
-}
+h1{
+    margin-bottom: 0px;
+  }
+  header{
+  
+      position:relative;
+      text-align:center;
+      margin-left: 1%;
+      background-color:black; 
+      margin-right: 70%;
+      margin-bottom: 0%;
+      padding: 2%;
+      font-size:medium;
+      color:whitesmoke;
+      display: block;   
+  
+  } 
+  
+  #foto>img{
+      width: 60%;
+      margin-left:20%;
+      border-style: solid;
+      border-width: 1px;
+      border-color: articblue;
+  }
+  
+  div{
+    margin-bottom:50px;
+  }
+  
+  #grado{
+      text-align: center;
+      padding:2%;
+      margin-bottom:  3px;
+      margin-top: 0%;
+  }
+  
+  #perfil{
+      text-align: justify;
+      margin-bottom: 40px;
+  }
+  
+  .centrar{
+      text-align: center;
+  }
+  
+  aside{
+      /*position:relative; */
+      text-align:left;
+      margin-left: 1%;
+      margin-right: 70%;
+      margin-top: 0%; 
+      background-color: black;
+      color:aliceblue;
+      /*display: inline-block;*/
+      padding: 2%;
+    height: auto; 
+  }
+  
+  #habilidades{
+    margin-bottom: 40px;
+  }
+  
+  main{
+      text-align:left;
+      margin-right:1%;
+      margin-left: 30%;
+      margin-bottom: 0%;
+      margin-top: -149.7%; 
+      background-color: ghostwhite;
+      padding: 2%; 
+      width: auto; 
+  }
+  section>h2{
+      margin-bottom: 3px;
+  }
+  footer{
+      margin-top: -10%;
+      background-color: black;
+      width: 30%;
+      height: 60%;
+  }
+  footer>img{
+      width: 20%;
+      margin-left: 10%;
+      background-color: black;
+      margin-bottom: 0%;
+      padding-bottom: 0%;
+  }
