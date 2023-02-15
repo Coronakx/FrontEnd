@@ -17,8 +17,9 @@ body{
 	position: relative;
 	width: 100%;
 	max-width: 1000px;
-	min-height: 100px;
+	min-height: 1000px;
 	background: #fff;
+	display: grid;
 	margin: 50px;
 	display: grid;
 	grid-template-columns: 1fr 2fr;
@@ -29,6 +30,21 @@ body{
 	position: relative;
 	background: #003147;
 	padding: 40px;
+}
+.profileText{
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding-bottom: 20px;
+	border-bottom: 1px solid rgba(255, 2555, 2555, 0.2);	
+}
+.profileText .foto{
+	position: relative;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	overflow: hidden;
 }
 
 .container .rightSide {
