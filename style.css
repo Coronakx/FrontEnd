@@ -19,7 +19,6 @@ body{
 	max-width: 1000px;
 	min-height: 1000px;
 	background: #fff;
-	display: grid;
 	margin: 50px;
 	display: grid;
 	grid-template-columns: 1fr 2fr;
@@ -132,8 +131,24 @@ body{
 }
 
 
-.png .container .rightSide {
+.container .rightSide {
 	position: relative;
 	background: #fff;
 	padding: 40px;
+}
+.about{
+margin-bottom: 50px;	
+}
+.about:last-child{
+	margin-bottom: 0;
+	text-align: justify;
+}
+.title2{
+	color: #003147;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin-bottom: 10px;
+}
+p{
+	color: #333;
 }
