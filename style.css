@@ -81,8 +81,20 @@ footer{
 	
 	
 }
-footer>i{
+footer>a{
 	color:white;
-	text-decoration:none;
 	font-size:1.7em;
+}
+footer>a:hover{
+	color:var(--color-amarillo);
+	font-size:1.5em;
+	background:#fff;
+	 padding:6px 10px;
+  border-radius:10px;
+}
+footer>a:active{
+	color:var(--color-gris-claro);
+}
+footer>a:visited{
+	color:var(--color-amarillo);
 }
