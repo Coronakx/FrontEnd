@@ -13,7 +13,7 @@ body{
 }
 .cabecera{
   display:flex;
-  height:25vh;
+  height:15vh;
   display:flex;
   flex-wrap:wrap;
   justify-content:center;
@@ -34,7 +34,7 @@ body{
 nav{
   background:var(--color-azul);
 	width:100vw;
-  height:15.5vh;
+  height:10vh;
   display:flex;
   flex-wrap:wrap;
   justify-content:space-evenly;
@@ -58,10 +58,10 @@ nav a:hover{
 
 main{
   background:silver;
-  height:44vh;
+  height:65vh;
 }
 footer{
   background:var(--color-gris-obscuro);
-  height:15.5vh;
+  height:10vh;
   
 }
