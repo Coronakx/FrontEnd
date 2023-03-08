@@ -9,11 +9,12 @@ body{
   margin:0;
   padding:0; 
   box-sizing:border-box;
-  font-family:sans-serif;
+  font-family: 'Hind Siliguri', sans-serif;
+
 }
 .cabecera{
   display:flex;
-  height:15vh;
+  height:12vh;
   display:flex;
   flex-wrap:wrap;
   justify-content:center;
@@ -22,7 +23,7 @@ body{
   background:orange;
 }
 .cabecera img{
-  width:4.9em;
+  width:4.3em;
   padding-left:2%;
 }
 .cabecera h1{
@@ -46,7 +47,7 @@ nav a{
   font-size:1.2em;
   text-decoration:none;
   background:none;
-  padding:10px 20px;
+  padding:6px 15px;
   border-radius:10px;
   
 }
@@ -58,10 +59,9 @@ nav a:hover{
 
 main{
   background:silver;
-  height:65vh;
+  height:68vh;
 }
 footer{
   background:var(--color-gris-obscuro);
-  height:10vh;
-  
+  height:10vh;  
 }
