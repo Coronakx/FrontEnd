@@ -73,7 +73,7 @@ section img{
   opacity:.8;
   transition:.5s ease;
 }
-section imv:hover{
+section img:hover{
   cursor:crosshair;
   width:300px;
   opacity:1;
