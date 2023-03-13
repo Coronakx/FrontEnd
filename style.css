@@ -20,7 +20,7 @@ body{
   justify-content:center;
   align-items:center;
   gap:3em;
-  
+  background:orange;
 }
 .cabecera img{
   width:5em;
@@ -58,13 +58,16 @@ nav a:hover{
 }
 
 main{
+  background:silver;
   height:76vh;
-}
-section{
   display:flex;
-  margin:auto;	
+}
+main>section{
+  display:flex;
+	margin: 2rem auto;
   width:600px;
   height:430px;
+  
 }
 section img{
   width:0;
