@@ -62,7 +62,7 @@ main{
 }
 section{
   display:flex;
-  matgin:auto;	
+  margin:auto;	
   width:600px;
   height:430px;
 }
