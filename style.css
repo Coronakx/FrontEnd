@@ -22,7 +22,7 @@ body {
   justify-content: center;
   align-items: center;
   gap: 3em;
-  background-color:orange;
+  
 }
 .cabecera img {
   width: 5em;
@@ -103,6 +103,7 @@ main section {
   width: 13rem;
   height: 17rem;
   font-size: 0.65em;
+ 
 }
 
 .card img {
