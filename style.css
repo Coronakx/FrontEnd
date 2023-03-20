@@ -90,6 +90,7 @@ main {
 main section {
   margin: auto 0;
   width: 100vw;
+  height:76vh;
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
