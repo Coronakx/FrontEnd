@@ -43,7 +43,7 @@ footer {
   align-items: center;
   gap: 3em;
   font-family: "Shadows Into Light Two", cursive;
-  color: var(--color-amarillo);em;
+  color: var(--color-amarillo)em;
 }
 footer>a:hover {
   color: var(--color-amarillo);
